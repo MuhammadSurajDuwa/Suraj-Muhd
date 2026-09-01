@@ -1,0 +1,14 @@
+name: flt3-conserve
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.11
+  - biopython=1.83
+  - pandas=2.1
+  - matplotlib=3.8
+  - seaborn=0.13
+  - jupyter=1.0
+  - notebook=7.0
+  - pip
